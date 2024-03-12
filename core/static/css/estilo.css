@@ -9,5 +9,9 @@ a {
 }
 
 img {
-  width: 75px;
+  width: 95px;
+}
+
+button {
+  margin-top: 10px;
 }
